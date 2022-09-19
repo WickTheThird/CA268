@@ -1,8 +1,5 @@
 #Q1
 
-from tkinter import E
-
-
 class Stuff:
 
     def __init__(self, fname, lname, salary):
