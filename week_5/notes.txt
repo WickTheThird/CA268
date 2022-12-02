@@ -1,0 +1,24 @@
+# Here I shall test data structures 
+
+#1 Queues...
+
+#  A queue is defined as a linear data structure
+#  which is open on both ends...
+#  The operations are based on the first in first out princeple (FIFO)
+#  We define a queue to be a list in which all the new additions are made at one end
+#  The element which is first pushed onto the queue will be the first on in which 
+#  operations are performed
+#  
+#  The queue works like the first came fist served princeple
+
+#2 Stacks
+
+A stack is a linear data structure which follows a particular order
+in which the order of the operations are performed
+The order os first in last out (FILO) or last in furst out (LIFO)
+
+A life exalpe on how stacks work is plates...
+You see you place playes on topn of each other
+And the first one you take out of that stack is the last one you placed
+on top of them all...
+
